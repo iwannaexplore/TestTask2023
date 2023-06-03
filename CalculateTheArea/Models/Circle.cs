@@ -24,6 +24,8 @@ public class Circle : ICalculateArea
    radius = value;
   }
  }
+ //Area of cirlce = PI * r^2
+ //в теории можно использовать сдесь паттерн Стратегия, который будет использовать разные алгоритмы расчета площади
  public double CalculateArea()
  {
   return Math.PI * Math.Pow(radius, 2);

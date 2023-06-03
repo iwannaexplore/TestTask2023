@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask", "TestTask\TestTa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateTheArea", "CalculateTheArea\CalculateTheArea.csproj", "{528F6C58-3CE2-4950-A9D8-F868CAED385C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateTheArea.Test", "CalculateTheArea.Test\CalculateTheArea.Test.csproj", "{F039F838-113F-4AD5-8BBB-CC8602F344B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{528F6C58-3CE2-4950-A9D8-F868CAED385C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{528F6C58-3CE2-4950-A9D8-F868CAED385C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{528F6C58-3CE2-4950-A9D8-F868CAED385C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F039F838-113F-4AD5-8BBB-CC8602F344B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F039F838-113F-4AD5-8BBB-CC8602F344B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F039F838-113F-4AD5-8BBB-CC8602F344B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F039F838-113F-4AD5-8BBB-CC8602F344B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
